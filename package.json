@@ -1,0 +1,17 @@
+{
+  "name": "broadband-auto-login",
+  "version": "1.0.0",
+  "description": "auto login to most popular cable broadbands and dsls",
+  "main": "wishnet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saurav modak support at linuxb dot in",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.0.9",
+    "phantomjs": "^1.9.18",
+    "q": "^1.4.1",
+    "request": "^2.61.0"
+  }
+}
